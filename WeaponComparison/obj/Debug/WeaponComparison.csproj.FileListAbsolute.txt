@@ -1,0 +1,11 @@
+c:\users\battleroid\documents\visual studio 2013\Projects\WeaponComparison\WeaponComparison\bin\Debug\WeaponComparison.exe.config
+c:\users\battleroid\documents\visual studio 2013\Projects\WeaponComparison\WeaponComparison\bin\Debug\WeaponComparison.exe
+c:\users\battleroid\documents\visual studio 2013\Projects\WeaponComparison\WeaponComparison\bin\Debug\WeaponComparison.pdb
+c:\users\battleroid\documents\visual studio 2013\Projects\WeaponComparison\WeaponComparison\obj\Debug\WeaponComparison.csprojResolveAssemblyReference.cache
+c:\users\battleroid\documents\visual studio 2013\Projects\WeaponComparison\WeaponComparison\obj\Debug\WeaponComparison.Comparator.resources
+c:\users\battleroid\documents\visual studio 2013\Projects\WeaponComparison\WeaponComparison\obj\Debug\WeaponComparison.Properties.Resources.resources
+c:\users\battleroid\documents\visual studio 2013\Projects\WeaponComparison\WeaponComparison\obj\Debug\WeaponComparison.csproj.GenerateResource.Cache
+c:\users\battleroid\documents\visual studio 2013\Projects\WeaponComparison\WeaponComparison\obj\Debug\WeaponComparison.exe
+c:\users\battleroid\documents\visual studio 2013\Projects\WeaponComparison\WeaponComparison\obj\Debug\WeaponComparison.pdb
+C:\Users\Battleroid\documents\visual studio 2013\Projects\WeaponComparison\WeaponComparison\obj\Debug\WeaponComparison.DropoffChart.resources
+C:\Users\Battleroid\Documents\Visual Studio 2013\Projects\WeaponComparison\WeaponComparison\bin\Debug\weapons.csv
