@@ -5,4 +5,4 @@ Project for Visual C# class, used to check weapon damages and properties against
 
 Example image:
 
-![example image of comparison and chart](example.jpg)
+![example image of comparison and chart](example.JPG)
